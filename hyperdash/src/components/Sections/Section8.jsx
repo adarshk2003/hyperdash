@@ -24,7 +24,7 @@ const BackgroundImage = styled(motion.div)`
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/hyperx/Air X Img.png") no-repeat center center/cover;
+  background: url("/hyperx/airXimg.png") no-repeat center center/cover;
   z-index: -1;
 `;
 
